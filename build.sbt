@@ -6,4 +6,4 @@ kataAutoStart
 
 kataUri in Backend := new URI("http://localhost:8080/P01-P10")
 
-libraryDependencies += "com.scalakata" %% "eval" % "0.5.0"
+libraryDependencies += "com.scalakata" %% "eval" % "0.5.1"
