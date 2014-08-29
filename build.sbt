@@ -4,6 +4,6 @@ seq(kataSettings: _*)
 
 kataAutoStart
 
-kataUri in Backend := new URI("http://localhost:8080/P01-P10")
+kataUri in Backend := new URI("http://localhost:7331/index")
 
-libraryDependencies += "com.scalakata" %% "eval" % "0.5.1"
+libraryDependencies += "com.scalakata" %% "eval" % "0.6.0"
